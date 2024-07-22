@@ -16,5 +16,32 @@ and even deploy machine learning models. Python's extensive standard library and
 Overall, data scripting with Python provides a flexible and efficient way to work with data, automate tasks, and gain insights from data analysis.
 
 
+  2 week done Image Scrapping
+
+Image_Scrapping:-
+The notebook 'Web-Scraping-in-Python' by MengyaoHuang demonstrates the use of BeautifulSoup/Selenium to extract IMDb director information and analyze it.
+Displaying Images in IPython
+Discussions on Stack Overflow cover displaying images in IPython, including how to show images in slides presentation mode and using public APIs like from IPython.display import Image
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Web Scraping Tutorial with BeautifulSoup:-
+A tutorial notebook by Mitchell Thomas Odhiambo provides an example of loading web page content, converting it to a BeautifulSoup object, and printing out the HTML.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Image Scraping with Python:-
+GeeksforGeeks offers an article on scraping images from websites using Python, highlighting the essential skill of web scraping and the steps involved in fetching important information from websites
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Inserting Images in Jupyter Notebook:-
+GeeksforGeeks also provides guidance on inserting images in a Jupyter Notebook, discussing different methods such as embedding images in a code cell and using Python code for insertion
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ week done with 
+
+
+
+
+
+
+
+
+
 
 
